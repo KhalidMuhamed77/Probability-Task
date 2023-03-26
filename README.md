@@ -1,4 +1,4 @@
-# Probability-Task
+
 1- compianation n=250 r=2 solve =(250!)/(2!*248!)=300
 
 2- =(5!)/(3!*2!)=10
